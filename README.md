@@ -5,3 +5,5 @@ So when you download these files,
 quickly type this command:
 
 chmod +x setup.sh && ./setup.sh
+
+© 2026 Papisoft - Minden jog fenntartva
