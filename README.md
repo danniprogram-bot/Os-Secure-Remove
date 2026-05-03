@@ -6,4 +6,4 @@ quickly type this command:
 
 chmod +x setup.sh && ./setup.sh
 
-© 2026 Papisoft - Minden jog fenntartva
+© 2026 Danisoft - Minden jog fenntartva
